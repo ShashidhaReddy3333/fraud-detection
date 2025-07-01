@@ -57,7 +57,3 @@ Direct link: <https://www.kaggle.com/competitions/ieee-fraud-detection/data>
 * Recall **82 %** @ 2.8 % FPR  
 * Meets all production targets.
 
-## Next Steps
-* Deploy container to AWS Fargate
-* Integrate Evidently dashboard
-* Move feature store to DuckDB/Arrow
